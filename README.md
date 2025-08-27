@@ -7,25 +7,34 @@
 <!-- mini wave gif -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
 
+<!-- make SVG icons white + subtle animation -->
+<style>
+  .white-svg img { filter: invert(1); transition: transform .15s ease; }
+  .white-svg a:hover img { transform: translateY(-2px) scale(1.06); }
+  .socials a { display:inline-flex; align-items:center; justify-content:center;
+               width:36px; height:36px; border-radius:9999px; background:#0f172a; /* koyu zemin */
+               margin:0 6px; }
+</style>
+
 <!-- Socials (SVG) -->
-<p>
+<p class="white-svg socials">
   <a href="https://youtube.com/@uzaylul" title="YouTube">
-    <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube"/>
-  </a>&nbsp;
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube"/>
+  </a>
   <a href="https://instagram.com/uzaylul" title="Instagram">
-    <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram"/>
-  </a>&nbsp;
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram"/>
+  </a>
   <a href="https://tiktok.com/@uzaylul" title="TikTok">
-    <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" alt="TikTok"/>
-  </a>&nbsp;
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" alt="TikTok"/>
+  </a>
   <a href="https://x.com/uzaylul" title="X">
-    <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X"/>
-  </a>&nbsp;
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X"/>
+  </a>
   <a href="https://reddit.com/r/uzaylul" title="Reddit">
-    <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reddit.svg" alt="Reddit"/>
-  </a>&nbsp;
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reddit.svg" alt="Reddit"/>
+  </a>
   <a href="https://discord.gg/R7q9pbBn9p" title="Discord">
-    <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord"/>
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord"/>
   </a>
 </p>
 
@@ -48,18 +57,18 @@
   ↳ https://github.com/uzaylul/uzaylul.github.io
 
 ### Teknoloji
-<p>
-  <img width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5"/>
-  &nbsp;<img width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3"/>
-  &nbsp;<img width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript"/>
+<p class="white-svg">
+  <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5"/>
+  &nbsp;<img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3"/>
+  &nbsp;<img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript"/>
 </p>
 
-<!-- tiny animated separator (gif) -->
+<!-- tiny animated separator -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
 </p>
 
-<!-- Stats (short & optional) -->
+<!-- Stats (optional) -->
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=uzaylul&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stats"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaylul&layout=compact&theme=transparent" alt="langs"/>
