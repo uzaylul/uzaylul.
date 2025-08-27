@@ -4,9 +4,7 @@
 </p>
 
 <!-- typing tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=740&lines=Kelimeler+zihnin+anahtarıdır.;Üretici+%26+sunucu%2C+hikaye+anlatıcısı.;Mini+web+araçları%2C+video+ve+yazı." alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?...senin_parametrelerin..." alt="" />
 
 <!-- socials (SVG icons white) -->
 <p align="center">
