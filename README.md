@@ -9,13 +9,13 @@
 
 <!-- Socials (SVG) -->
 <p>
-  <a href="https://www.youtube.com/@uzaylul" title="YouTube">
+  <a href="https://youtube.com/@uzaylul" title="YouTube">
     <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube"/>
   </a>&nbsp;
-  <a href="https://www.instagram.com/uzaylul" title="Instagram">
+  <a href="https://instagram.com/uzaylul" title="Instagram">
     <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram"/>
   </a>&nbsp;
-  <a href="https://www.tiktok.com/@uzaylul" title="TikTok">
+  <a href="https://tiktok.com/@uzaylul" title="TikTok">
     <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" alt="TikTok"/>
   </a>&nbsp;
   <a href="https://x.com/uzaylul" title="X">
@@ -24,7 +24,7 @@
   <a href="https://reddit.com/r/uzaylul" title="Reddit">
     <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reddit.svg" alt="Reddit"/>
   </a>&nbsp;
-  <a href="https://discord.gg" title="Discord">
+  <a href="https://discord.gg/R7q9pbBn9p" title="Discord">
     <img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord"/>
   </a>
 </p>
