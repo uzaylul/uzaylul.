@@ -49,10 +49,7 @@
 
 ### Teknoloji
 
-<!-- trophies / stats / streak -->
-<p align="center">
-  <img height="110" src="https://github-profile-trophy.vercel.app/?username=uzaylul&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+<!-- stats / streak -->
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=uzaylul&show_icons=true&theme=transparent&hide_title=true" alt="stats"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaylul&layout=compact&theme=transparent" alt="langs"/>
