@@ -5,7 +5,7 @@
 
 <!-- typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=740&lines=Kelimeler+zihnin+anahtarıdır.;Üretici+%26+sunucu%2C+hikaye+anlatıcısı.;Mini+web+araçları%2C+video+ve+yazı." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Onur%20%C3%87elik%20%E2%80%A2%20uzaylul&fontSize=44&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Kelimeler%20zihnin%20anahtar%C4%B1d%C4%B1r.&descAlign=50&descAlignY=70" alt="header"/>
 </p>
 
 <!-- socials (SVG icons white) -->
