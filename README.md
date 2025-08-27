@@ -1,75 +1,84 @@
-<!-- Header -->
-<div align="center">
-
-# Onur Çelik · uzaylul  
-<i>“Kelimeler zihnin anahtarıdır.”</i>  
-
-<!-- mini wave gif -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
-
-<!-- make SVG icons white + subtle animation -->
-<style>
-  .white-svg img { filter: invert(1); transition: transform .15s ease; }
-  .white-svg a:hover img { transform: translateY(-2px) scale(1.06); }
-  .socials a { display:inline-flex; align-items:center; justify-content:center;
-               width:36px; height:36px; border-radius:9999px; background:#0f172a; /* koyu zemin */
-               margin:0 6px; }
-</style>
-
-<!-- Socials (SVG) -->
-<p class="white-svg socials">
-  <a href="https://youtube.com/@uzaylul" title="YouTube">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube"/>
-  </a>
-  <a href="https://instagram.com/uzaylul" title="Instagram">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram"/>
-  </a>
-  <a href="https://tiktok.com/@uzaylul" title="TikTok">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" alt="TikTok"/>
-  </a>
-  <a href="https://x.com/uzaylul" title="X">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X"/>
-  </a>
-  <a href="https://reddit.com/r/uzaylul" title="Reddit">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reddit.svg" alt="Reddit"/>
-  </a>
-  <a href="https://discord.gg/R7q9pbBn9p" title="Discord">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord"/>
-  </a>
+<!-- header (animated) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Onur%20Çelik%20•%20uzaylul&fontSize=44&fontAlign=50&fontAlignY=38&animation=twinkling" alt="header"/>
 </p>
 
-<!-- quick badges -->
-<a href="mailto:onurcelikmail@proton.me"><img alt="Mail" src="https://img.shields.io/badge/Contact-Email-6d28d9?style=for-the-badge"/></a>
-<a href="https://linkler.uzaylul.com/"><img alt="Links" src="https://img.shields.io/badge/All%20Links-here-0ea5e9?style=for-the-badge"/></a>
+<!-- typing tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=740&lines=Kelimeler+zihnin+anahtarıdır.;Üretici+%26+sunucu%2C+hik%C3%A2ye+anlatıcısı.;Mini+web+ara%C3%A7lar%C4%B1%2C+video+ve+yaz%C4%B1." alt="typing"/>
+</p>
 
-</div>
+<!-- socials (SVG icons white) -->
+<p align="center">
+  <a href="https://youtube.com/@uzaylul" title="YouTube">
+    <img src="https://img.shields.io/badge/-_-0f172a?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0f172a" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/uzaylul" title="Instagram">
+    <img src="https://img.shields.io/badge/-_-0f172a?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=0f172a" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@uzaylul" title="TikTok">
+    <img src="https://img.shields.io/badge/-_-0f172a?style=for-the-badge&logo=tiktok&logoColor=ffffff&labelColor=0f172a" alt="TikTok" />
+  </a>
+  <a href="https://x.com/uzaylul" title="X">
+    <img src="https://img.shields.io/badge/-_-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0f172a" alt="X" />
+  </a>
+  <a href="https://reddit.com/r/uzaylul" title="Reddit">
+    <img src="https://img.shields.io/badge/-_-0f172a?style=for-the-badge&logo=reddit&logoColor=ffffff&labelColor=0f172a" alt="Reddit" />
+  </a>
+  <a href="https://discord.gg/R7q9pbBn9p" title="Discord">
+    <img src="https://img.shields.io/badge/-_-0f172a?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0f172a" alt="Discord" />
+  </a>
+  <a href="mailto:onurcelikmail@proton.me" title="E-posta">
+    <img src="https://img.shields.io/badge/Contact-Email-6d28d9?style=for-the-badge" alt="Mail"/>
+  </a>
+  <a href="https://linkler.uzaylul.com/" title="Tüm linkler">
+    <img src="https://img.shields.io/badge/All%20Links-here-0ea5e9?style=for-the-badge" alt="Links"/>
+  </a>
+</p>
 
 ---
 
 ### Kısaca
-- 🎥 Üretici & sunucu; fikirleri **video** ve **yazıyla** anlatıyorum.  
-- 🧰 Küçük ama faydalı web araçları kurcalıyorum.
+- 🎥 Fikirleri **video** ve **yazıyla** anlatıyorum.
+- 🧰 **Mini web araçları** geliştiriyorum (HTML/CSS/JS).
 
 ### Seçme işler
-- 🔧 **MultiTools** – Pomodoro, QR, renk paleti vb. mini araçlar  
-  ↳ https://github.com/uzaylul/MultiTools  
-- 🌐 **Kişisel site** – GitHub Pages  
-  ↳ https://github.com/uzaylul/uzaylul.github.io
+<p align="center">
+  <a href="https://github.com/uzaylul/MultiTools">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=uzaylul&repo=MultiTools&theme=transparent" alt="MultiTools"/>
+  </a>
+  <a href="https://github.com/uzaylul/uzaylul.github.io">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=uzaylul&repo=uzaylul.github.io&theme=transparent" alt="Site"/>
+  </a>
+</p>
 
 ### Teknoloji
-<p class="white-svg">
-  <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5"/>
-  &nbsp;<img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3"/>
-  &nbsp;<img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript"/>
+<p align="center">
+  <img height="28" src="https://cdn.simpleicons.org/html5/fff" alt="HTML5"/>
+  &nbsp;<img height="28" src="https://cdn.simpleicons.org/css3/fff" alt="CSS3"/>
+  &nbsp;<img height="28" src="https://cdn.simpleicons.org/javascript/fff" alt="JavaScript"/>
 </p>
 
-<!-- tiny animated separator -->
+<!-- trophies / stats / streak -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+  <img height="110" src="https://github-profile-trophy.vercel.app/?username=uzaylul&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=uzaylul&show_icons=true&theme=transparent&hide_title=true" alt="stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaylul&layout=compact&theme=transparent" alt="langs"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=uzaylul&theme=transparent" alt="streak"/>
 </p>
 
-<!-- Stats (optional) -->
+<!-- activity graph (animated-ish) -->
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=uzaylul&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stats"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaylul&layout=compact&theme=transparent" alt="langs"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzaylul&theme=github-compact&radius=8&area=true" alt="activity-graph"/>
 </p>
+
+<!-- footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
+</p>
+
+<!-- Optional: Contribution Snake (etkinleştirmek için Actions ekleyin)
+<img src="https://raw.githubusercontent.com/uzaylul/uzaylul/output/snake.svg" alt="snake"/>
+-->
