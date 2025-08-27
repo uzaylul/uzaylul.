@@ -5,7 +5,7 @@
 
 <!-- typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=740&lines=Kelimeler+zihnin+anahtarıdır.;Üretici+%26+sunucu%2C+hik%C3%A2ye+anlatıcısı.;Mini+web+ara%C3%A7lar%C4%B1%2C+video+ve+yaz%C4%B1." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=740&lines=Kelimeler+zihnin+anahtarıdır.;Üretici+%26+sunucu%2C+hikaye+anlatıcısı.;Mini+web+araçları%2C+video+ve+yazı." alt="Typing SVG" />
 </p>
 
 <!-- socials (SVG icons white) -->
