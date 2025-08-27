@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Onur%20Çelik%20•%20uzaylul&fontSize=44&fontAlign=50&fontAlignY=38&animation=twinkling" alt="header"/>
 </p>
 
-<!-- typing tagline -->
-<img src="https://readme-typing-svg.demolab.com?...senin_parametrelerin..." alt="" />
-
 <!-- socials (SVG icons white) -->
 <p align="center">
   <a href="https://youtube.com/@uzaylul" title="YouTube">
@@ -51,11 +48,6 @@
 </p>
 
 ### Teknoloji
-<p align="center">
-  <img height="28" src="https://cdn.simpleicons.org/html5/fff" alt="HTML5"/>
-  &nbsp;<img height="28" src="https://cdn.simpleicons.org/css3/fff" alt="CSS3"/>
-  &nbsp;<img height="28" src="https://cdn.simpleicons.org/javascript/fff" alt="JavaScript"/>
-</p>
 
 <!-- trophies / stats / streak -->
 <p align="center">
