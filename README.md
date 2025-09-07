@@ -68,7 +68,7 @@
 
 <!-- contribution snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uzaylul/uzaylul/output/snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/uzaylul/uzaylul/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <!-- footer wave -->
