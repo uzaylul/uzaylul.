@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Onur%20Çelik%20•%20uzaylul&fontSize=44&fontAlign=50&fontAlignY=38&animation=twinkling" alt="header"/>
 </p>
 
+<!-- typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ea5e9&center=true&vCenter=true&width=450&lines=Merhaba!;Ben+Onur+Çelik;Web+ara%C3%A7lar%C4%B1+ve+videolar+haz%C4%B1rl%C4%B1yorum" alt="typing" />
+</p>
+
 <!-- socials (SVG icons white) -->
 <p align="center">
   <a href="https://youtube.com/@uzaylul" title="YouTube">
@@ -61,11 +66,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzaylul&theme=github-compact&radius=8&area=true" alt="activity-graph"/>
 </p>
 
+<!-- contribution snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uzaylul/uzaylul/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 <!-- footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
 </p>
-
-<!-- Optional: Contribution Snake (etkinleştirmek için Actions ekleyin)
-<img src="https://raw.githubusercontent.com/uzaylul/uzaylul/output/snake.svg" alt="snake"/>
--->
